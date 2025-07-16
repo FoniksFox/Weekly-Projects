@@ -1,0 +1,3 @@
+[submodule "Chatting-App"]
+	path = Chatting-App
+	url = https://github.com/FoniksFox/Chatting-App.git
