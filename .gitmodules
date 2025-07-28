@@ -1,3 +1,6 @@
 [submodule "Chatting-App"]
 	path = Chatting-App
 	url = https://github.com/FoniksFox/Chatting-App.git
+[submodule "Telemetry-App"]
+	path = Telemetry-App
+	url = https://github.com/FoniksFox/Telemetry-App.git
