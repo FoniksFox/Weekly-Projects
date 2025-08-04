@@ -6,11 +6,11 @@ A series of one-week-long projects made with the purpose of touching on as many 
 
 - [ ] Portfolio Web
 - [ ] Games
-  - [ ] The Game of life, 2, the return of the CUDA
+  - [ ] The Game of life <- Currently developing
   - [ ] Game Jam
 - [ ] Chess AI, machine learning
 - [X] Chatting App
-- [ ] Telemetry App <- Currently developing
+- [X] Telemetry App
 - [ ] Commercial web
 
 ## Topics discussed
@@ -18,9 +18,10 @@ A series of one-week-long projects made with the purpose of touching on as many 
 ### Web
 
 - [ ] Frameworks
-  - [ ] Angular <- Currently developing
+  - [X] Angula
+  - [ ] React
 - [X] HTML, CSS, JS, TS
-- [ ] CSS alternatives (like Tailwind) <- Currently developing
+- [ ] CSS alternatives (like Tailwind)
 
 ### AI & Data Science
 
@@ -32,7 +33,7 @@ A series of one-week-long projects made with the purpose of touching on as many 
 
 - [ ] Competitive Programming
 - [ ] Algorithms
-- [ ] Concurrency
+- [ ] Concurrency <- Currently developing
 
 ### Databases
 
@@ -44,10 +45,10 @@ A series of one-week-long projects made with the purpose of touching on as many 
 - [ ] C++
 - [ ] Haskell
 - [ ] Prolog
-- [ ] Python
+- [ ] Python <- Currently developing
 - [ ] C#
 - [X] JavaScript
-- [ ] TypeScript <- Currently developing
+- [X] TypeScript
 - [ ] Go
 - [ ] PHP
 - [ ] Rust
@@ -59,13 +60,13 @@ A series of one-week-long projects made with the purpose of touching on as many 
 ### Other
 
 - [X] Documentation
-- [ ] Testing <- Currently developing
+- [X] Testing
 - [ ] Terminal
 - [ ] CyberSecurity
 
 ## Tools to learn
 
-- [ ] CUDA
+- [ ] CUDA <- Currently developing
 - [ ] Unity
 - [ ] Kubernetes Docker
-- [X] Git <- Currently developing
+- [X] Git
