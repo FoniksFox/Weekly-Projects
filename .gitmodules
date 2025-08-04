@@ -4,3 +4,6 @@
 [submodule "Telemetry-App"]
 	path = Telemetry-App
 	url = https://github.com/FoniksFox/Telemetry-App.git
+[submodule "Conway-Game-of-Life"]
+	path = Conway-Game-of-Life
+	url = https://github.com/FoniksFox/Conway-Game-of-Life.git
