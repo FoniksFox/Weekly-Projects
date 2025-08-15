@@ -7,3 +7,6 @@
 [submodule "Conway-Game-of-Life"]
 	path = Conway-Game-of-Life
 	url = https://github.com/FoniksFox/Conway-Game-of-Life.git
+[submodule "Websocket"]
+	path = Websocket
+	url = https://github.com/FoniksFox/Websocket.git
