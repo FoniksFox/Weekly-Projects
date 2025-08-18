@@ -6,12 +6,14 @@ A series of one-week-long projects made with the purpose of touching on as many 
 
 - [ ] Portfolio Web
 - [ ] Games
-  - [ ] The Game of life <- Currently developing
+  - [X] The Game of life
   - [ ] Game Jam
 - [ ] Chess AI, machine learning
 - [X] Chatting App
 - [X] Telemetry App
 - [ ] Commercial web
+- [X] WebSocket Implementations
+- [ ] Algorithm Rush <- Currently developing
 
 ## Topics discussed
 
@@ -32,8 +34,8 @@ A series of one-week-long projects made with the purpose of touching on as many 
 ### Computation
 
 - [ ] Competitive Programming
-- [ ] Algorithms
-- [ ] Concurrency <- Currently developing
+- [ ] Algorithms <- Currently developing
+- [ ] Concurrency
 
 ### Databases
 
@@ -42,10 +44,10 @@ A series of one-week-long projects made with the purpose of touching on as many 
 ### Programming Languages
 
 - [ ] C
-- [ ] C++
+- [ ] C++ <- Currently developing
 - [ ] Haskell
 - [ ] Prolog
-- [ ] Python <- Currently developing
+- [X] Python
 - [ ] C#
 - [X] JavaScript
 - [X] TypeScript
@@ -56,6 +58,8 @@ A series of one-week-long projects made with the purpose of touching on as many 
 ### Design Patterns
 
 ### Servers and Networking
+- [X] HTTP requests
+- [X] WebSocket
 
 ### Other
 
@@ -66,7 +70,7 @@ A series of one-week-long projects made with the purpose of touching on as many 
 
 ## Tools to learn
 
-- [ ] CUDA <- Currently developing
+- [ ] CUDA
 - [ ] Unity
 - [ ] Kubernetes Docker
 - [X] Git
