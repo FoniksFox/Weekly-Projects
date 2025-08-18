@@ -10,3 +10,6 @@
 [submodule "Websocket"]
 	path = Websocket
 	url = https://github.com/FoniksFox/Websocket.git
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/FoniksFox/Algorithms.git
