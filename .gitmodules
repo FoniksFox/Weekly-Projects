@@ -13,3 +13,6 @@
 [submodule "Algorithms"]
 	path = Algorithms
 	url = https://github.com/FoniksFox/Algorithms.git
+[submodule "SVG"]
+	path = SVG
+	url = https://github.com/FoniksFox/SVG.git

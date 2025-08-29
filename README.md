@@ -12,8 +12,9 @@ A series of one-week-long projects made with the purpose of touching on as many 
 - [X] Chatting App
 - [X] Telemetry App
 - [ ] Commercial web
-- [X] WebSocket Implementations
-- [ ] Algorithm Rush <- Currently developing
+- [X] WebSocket Implementation
+- [X] Algorithm Rush
+- [ ] SVG and animations <- Currently developing
 
 ## Topics discussed
 
@@ -24,6 +25,7 @@ A series of one-week-long projects made with the purpose of touching on as many 
   - [ ] React
 - [X] HTML, CSS, JS, TS
 - [ ] CSS alternatives (like Tailwind)
+- [ ] SVG <- Currently developing
 
 ### AI & Data Science
 
@@ -34,7 +36,7 @@ A series of one-week-long projects made with the purpose of touching on as many 
 ### Computation
 
 - [ ] Competitive Programming
-- [ ] Algorithms <- Currently developing
+- [X] Algorithms
 - [ ] Concurrency
 
 ### Databases
@@ -44,7 +46,7 @@ A series of one-week-long projects made with the purpose of touching on as many 
 ### Programming Languages
 
 - [ ] C
-- [ ] C++ <- Currently developing
+- [X] C++
 - [ ] Haskell
 - [ ] Prolog
 - [X] Python
