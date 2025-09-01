@@ -14,18 +14,19 @@ A series of one-week-long projects made with the purpose of touching on as many 
 - [ ] Commercial web
 - [X] WebSocket Implementation
 - [X] Algorithm Rush
-- [ ] SVG and animations <- Currently developing
+- [X] SVG and animations
+- [ ] 3D in web <- Currently developing
 
 ## Topics discussed
 
 ### Web
 
 - [ ] Frameworks
-  - [X] Angula
+  - [X] Angular
   - [ ] React
 - [X] HTML, CSS, JS, TS
 - [ ] CSS alternatives (like Tailwind)
-- [ ] SVG <- Currently developing
+- [X] SVG
 
 ### AI & Data Science
 
