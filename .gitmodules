@@ -16,3 +16,6 @@
 [submodule "SVG"]
 	path = SVG
 	url = https://github.com/FoniksFox/SVG.git
+[submodule "Local_Embedding"]
+	path = Local_Embedding
+	url = https://github.com/FoniksFox/Local_Embedding.git
