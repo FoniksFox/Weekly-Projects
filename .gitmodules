@@ -19,3 +19,6 @@
 [submodule "Local_Embedding"]
 	path = Local_Embedding
 	url = https://github.com/FoniksFox/Local_Embedding.git
+[submodule "CRC"]
+	path = CRC
+	url = https://github.com/FoniksFox/CRC.git
