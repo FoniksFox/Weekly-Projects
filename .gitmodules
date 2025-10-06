@@ -22,3 +22,6 @@
 [submodule "VectorCT"]
 	path = VectorCT
 	url = https://github.com/FoniksFox/VectorCT.git
+[submodule "CRC"]
+	path = CRC
+	url = https://github.com/FoniksFox/CRC.git
