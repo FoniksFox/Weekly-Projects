@@ -25,3 +25,6 @@
 [submodule "CRC"]
 	path = CRC
 	url = https://github.com/FoniksFox/CRC.git
+[submodule "State-Machine"]
+	path = State-Machine
+	url = https://github.com/FoniksFox/State-Machine
