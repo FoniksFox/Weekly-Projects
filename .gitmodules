@@ -28,3 +28,6 @@
 [submodule "State-Machine"]
 	path = State-Machine
 	url = https://github.com/FoniksFox/State-Machine
+[submodule "Blinky"]
+	path = Blinky
+	url = https://github.com/FoniksFox/Blinky.git
